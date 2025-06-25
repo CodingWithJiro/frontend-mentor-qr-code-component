@@ -19,7 +19,9 @@
 
 ## ℹ️ QR Code Component Website
 
-![Screenshot of the project](./img/site-preview_1200x630.jpg)
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 A responsive QR code component website built using HTML and CSS based on a provided Figma file and style guide. Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
 
